@@ -25,7 +25,7 @@ concurrency:
   # deploy my code
   # 3. login into a server
   # 4. pull the docker image i pushed in step 2
-  # 5. run docker-compose commands
+  # 5. run docker-compose commandsss
 
 jobs:
   build:
